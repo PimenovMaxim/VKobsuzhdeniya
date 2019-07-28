@@ -1,7 +1,7 @@
 (function() {
   // user setting, такие же настройки в d_reviews.php
-  var group_id = ''; // вписать id вашей группы
-  var topic_id = ''; // вписать id поста
+  var group_id = 'afr_36'; // вписать id вашей группы
+  var topic_id = 'topic-177493173_40209702'; // вписать id поста
   var JSONReviewsGeneratorReference = ''; // вписать путь к файлу d_reviews.php (например https://my-site.ru/d_reviews.php)
   var quantityComments = 3; // количество комментариев для вывода
 
